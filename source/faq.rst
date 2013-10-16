@@ -28,12 +28,6 @@ studying it. If you think you don't know enough, try anyways -- in the worst
 case you'll discover that your self-assessment was correct, and in the best
 case, you'll become a successful open source contributor. 
 
-When will meetings be? 
-----------------------
-
-Weekday evenings, probably Thursday or Friday. It depends on when the people
-taking the course are available. Use the `signup form`_ to indicate your
-availability. 
 
 When will meetings be? 
 ----------------------
